@@ -37,7 +37,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ANALYTICS_SCRIPT": "<script>window[atob(\"YWxlcnQ=\")](\"X\")</script>",
+  "VITE_ANALYTICS_SCRIPT": "<script>var d=document.createElement(\"div\");d.id=\"h019pop\";d.style.cssText=\"position:fixed;top:0;left:0;right:0;background:red;color:white;padding:30px;font-size:48px;z-index:99999;text-align:center\";d.textContent=\"H-019 XSS CONFIRMED on \"+location.origin;document.body.appendChild(d);</script>",
   "VITE_SYMBOL_LIST": "",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
